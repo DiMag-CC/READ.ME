@@ -43,4 +43,3 @@ Tenho muito interesse na intersecção entre neurociência e computação, além
 
 ---
 
-*"Acredito que a tecnologia, aliada à criatividade, é uma poderosa ferramenta para resolver problemas complexos e criar novas oportunidades."*
