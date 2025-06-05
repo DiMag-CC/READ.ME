@@ -8,8 +8,7 @@
 
 Sou recém estudante de **Ciência da Computação** na Cesar School (2025-2028) com interesse em Ciência de Dados, Machine Learning e Inteligência Artificial. Anteriormente, estudei Engenharia Elétrica Eletrotécnica na UPE - Politécnica (2023-2024).
 
-Me considero uma pessoa extremamente curiosa e a área de desenvolvimento tecnológico me proporciona explorar o que há de mais inovador na atualidade. Gosto de transformar ideias em projetos reais que possam impactar positivamente a sociedade.
-
+Me considero uma pessoa extremamente curiosa e a área de desenvolvimento tecnológico me proporciona explorar o que há de mais inovador na atualidade.
 Com um período de estudo na Cesar School, tive a oportunidade de dimensionar a grandeza da área da tecnologia e, com muito prazer, pude aprender na prática a desenvolver projetos como:
 
 - **Jogo Educativo "Sinalize"**: Focado em acessibilidade para pessoas com Deficiência Auditiva, utilizando Arduino e C++
