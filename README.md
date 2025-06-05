@@ -16,7 +16,7 @@ Com um período de estudo na Cesar School, tive a oportunidade de dimensionar a 
 - **Portfólio Digital**: Desenvolvido com HTML5, CSS3 e JavaScript
 - **Gerenciador de Pets**: Aplicação em Python para cadastro e acompanhamento de animais de estimação
 
-Nas horas vagas, gosto de treinar, correr e ler. Atualmente, busco oportunidades para crescer como desenvolvedor e contribuir com projetos que integrem tecnologia, inovação e, principalmente, impacto social.
+Nas horas vagas, gosto de treinar, correr, ler e acompanhar esportes como futebol, tênis e basquete. Atualmente, estou focando meus estudos em análise de dados e aos poucos aprendendo sobre Solitdity.
 
 ## Certificações 🏆
 - Curso de JavaScript Essencial 1 – Cisco Networking Academy
@@ -37,9 +37,5 @@ Nas horas vagas, gosto de treinar, correr e ler. Atualmente, busco oportunidades
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-## Interesses Futuros 🔭
-
-Tenho muito interesse na intersecção entre neurociência e computação, além de grande curiosidade pela análise e ciência de dados. Atualmente, estou focado em aprender mais sobre estruturas de dados em Python e Solidity para desenvolvimento Web3.
-
----
+--
 
