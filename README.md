@@ -1,6 +1,6 @@
 # 👋 Olá, muito prazer!
 
-## Me chamo **Diego Magnata**
+## Me chamo **Diego Magnata**, tenho **19 anos**, sou natural de **Recife, Pernambuco**
 
 ### 🌐 [Portfólio Digital](https://dimag-cc.github.io/portfolio-Diego/)  
 > Explore meus projetos, habilidades e trajetória profissional.
