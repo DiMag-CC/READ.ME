@@ -50,9 +50,10 @@ Sou movido pela **curiosidade** e pela vontade de explorar o que há de mais **i
 
 ## 📊 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DiMag-CC&show_icons=true&theme=radical&count_private=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DiMag-CC&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiMag-CC&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiMag-CC&layout=compact&theme=radical" alt="Top Languages" height="200"/>
+</div>
 
 ---
 
