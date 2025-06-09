@@ -5,7 +5,8 @@
 ### 🌐 [Portfólio Digital](https://dimag-cc.github.io/portfolio-Diego/)  
 > Explore meus projetos, habilidades e trajetória profissional.
 
-### 📂 GitHub: [@DiMag-CC](https://github.com/DiMag-CC)
+### 📂 [GitHub - @DiMag-CC](https://github.com/DiMag-CC)
+> Observe meus códigos, estudos e inovações.
 
 ---
 
