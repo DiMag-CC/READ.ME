@@ -37,5 +37,8 @@ Nas horas vagas, gosto de treinar, correr, ler e acompanhar esportes como futebo
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
---
+## 📊 Estatísticas do GitHub
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DiMag-CC&show_icons=true&theme=radical&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DiMag-CC&layout=compact&theme=radical)
